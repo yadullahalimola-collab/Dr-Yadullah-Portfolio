@@ -1,29 +1,18 @@
-# 🌟 Dr. Yadullah — Digital Portfolio
+# Dr. Yadullah - Digital Portfolio
+MBBS | Public Health | PMP | AI Innovator
+Founder: KunFayaKun Foundation | REG: RP/12813/L/S/25 | ITN: 1069620
 
-## About Me
-**Dr. Yadullah** | MBBS · Public Health · PMP · AI Innovator
-Founder of **KunFayaKun Foundation** — Working to Serve & Save Humanity
+## 17 Base44 Apps
+1. Kun Faya Kun - AI Superagent
+2. KUN FAYA KUN - Platform app
+3. Dr. Yadullah - Profile hub
+4. FlowStack - Full-stack app builder
+5. FlowState - Project management
+6. BaseEngine - Developer platform
+7. BaseEngine (Copy) x2
+8. TaskFlow (Copy) x5 - Marketing tasks
+9. Untitled x5 - In development
 
-## 🗂️ App Portfolio (17 Apps on Base44)
-| # | App Name | Description | Status |
-|---|----------|-------------|--------|
-| 1 | ✨ Kun Faya Kun | Personal AI Superagent | ✅ Active |
-| 2 | KUN FAYA KUN | Platform app | ✅ Active |
-| 3 | Dr. Yadullah | Personal profile hub | ✅ Active |
-| 4 | FlowStack | Full-stack app builder | ✅ Active |
-| 5 | FlowState | Project management | ✅ Active |
-| 6 | BaseEngine | Developer platform | ✅ Active |
-| 7 | BaseEngine (Copy) x2 | Dev instances | ✅ Active |
-| 8 | TaskFlow (Copy) x5 | Marketing task manager | ✅ Active |
-| 9 | Untitled x5 | In development | 🚧 WIP |
-
-## 📜 Certificates
-See [KunFayaKun-Certificates](https://github.com/yadullahalimola-collab/KunFayaKun-Certificates)
-
-## 🔗 Links
-- GitHub: [@yadullahalimola-collab](https://github.com/yadullahalimola-collab)
-- YouTube: [Dr Yadullah Ali](https://youtube.com/@dryadullahali)
-- Email: yadullahalimola@gmail.com
-
----
-*REG: RP/12813/L/S/25 · ITN: 1069620 · © 2026 KunFayaKun Foundation*
+Email: yadullahalimola@gmail.com
+YouTube: youtube.com/@dryadullahali
+GitHub: github.com/yadullahalimola-collab
