@@ -1,0 +1,1 @@
+# Security Policy\n- 2FA enabled\n- OAuth 2.0\n- Encrypted secrets\nContact: yadullahalimola@gmail.com
