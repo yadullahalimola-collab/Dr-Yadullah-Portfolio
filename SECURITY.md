@@ -1,1 +1,6 @@
-# Security Policy\n- 2FA enabled\n- OAuth 2.0\n- Encrypted secrets\nContact: yadullahalimola@gmail.com
+# Security Policy
+- 2FA enabled on all accounts
+- OAuth 2.0 integrations
+- HTTPS enforced
+- Encrypted secrets vault
+Contact: yadullahalimola@gmail.com | REG: RP/12813/L/S/25
